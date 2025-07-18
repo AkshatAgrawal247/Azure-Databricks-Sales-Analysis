@@ -1,0 +1,5 @@
+product_id,description,price,category
+p1,Laptop,1200.00,Electronics
+p2,Mouse,25.50,Electronics
+p3,Book - "Data Science 101",40.00,Books
+p4,Coffee Mug,15.00,Homeware

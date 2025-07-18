@@ -1,0 +1,7 @@
+transaction_id,customer_id,product_id,quantity,channel
+t1,c1,p1,1,web
+t2,c2,p2,2,mobile
+t3,c1,p3,1,in-store
+t4,c3,p1,3,web
+t5,c2,p4,1,mobile
+t6,c1,p2,2,web
